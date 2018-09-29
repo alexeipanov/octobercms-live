@@ -1,1 +1,1 @@
-# octobercms-live
+# octobercms-live-assets
